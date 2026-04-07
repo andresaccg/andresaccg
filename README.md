@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- BANNER SUPERIOR -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0030,100:0d0d2b&height=200&section=header&text=Andrés%20Romero&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Novar%20·%20iOS%20Developer%20·%20Entrepreneur&descAlignY=60&descSize=18&descColor=aaaaff&animation=fadeIn" />
+<!-- TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0030,100:0d0d2b&height=200&section=header&text=Andr%C3%A9s%20Camilo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Novar%20·%20iOS%20%26%20Android%20Developer%20·%20Entrepreneur&descAlignY=60&descSize=18&descColor=aaaaff&animation=fadeIn" />
 
-<!-- TYPING ANIMADO -->
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=El+futuro+ruge.;Building+the+next+generation+of+tech.;iOS+%7C+Web+%7C+AR+%7C+Robotics;Novar+%E2%80%94+Ecosistema+tecnol%C3%B3gico." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Discipline+and+resilience.;Building+the+next+generation+of+tech.;iOS+%7C+Android+%7C+Web+%7C+AR+%7C+Robotics;Novar+%E2%80%94+Tech+Ecosystem." />
 </a>
 
 <br/>
 
-<!-- BADGES DE REDES -->
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 [![Website](https://img.shields.io/badge/novar.dev-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://TU_SITIO_WEB.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@dominio.com)
@@ -19,7 +19,7 @@
 
 ---
 
-## 👤 Sobre mí
+## 👤 About Me
 
 ```swift
 let andres = Developer(
@@ -28,12 +28,12 @@ let andres = Developer(
     location:   "Bogotá, Colombia 🇨🇴",
     company:    "Novar — Founder & CEO",
     education:  "Gimnasio Académico Regional · Business Administration",
-    focus:      ["iOS / iPadOS / visionOS", "ARKit & RealityKit", "Web Full-Stack", "EdTech", "Robotics"],
-    philosophy: "Never Give Up."
+    focus:      ["iOS / iPadOS / visionOS", "Android", "ARKit & RealityKit", "Web Full-Stack", "EdTech", "Robotics"],
+    philosophy: "Discipline and resilience."
 )
 ```
 
-Soy un emprendedor de 16 años construyendo **Novar**, un ecosistema tecnológico con tres verticales: educación, robótica y desarrollo de software. Creo que la tecnología más poderosa es aquella que democratiza el acceso al conocimiento.
+I'm a 16-year-old entrepreneur building **Novar**, a tech ecosystem with three verticals: education, robotics, and software development. I believe the most powerful technology is the kind that democratizes access to knowledge.
 
 ---
 
@@ -41,17 +41,17 @@ Soy un emprendedor de 16 años construyendo **Novar**, un ecosistema tecnológic
 
 <div align="center">
 
-| Producto | Descripción | Stack |
+| Product | Description | Stack |
 |:---:|:---|:---|
-| **Novar Aura** | Kits de robótica educativa basados en Arduino | Arduino · C++ · Swift |
-| **Novar Education** | Plataforma de gestión escolar | Next.js · Supabase · Tailwind CSS |
-| **Novar Connect** | Marketplace de desarrollo de apps | Next.js · Supabase · Swift |
+| **Novar Aura** | Arduino-based educational robotics kits | Arduino · C++ · Swift |
+| **Novar Education** | School management platform | Next.js · Supabase · Tailwind CSS |
+| **Novar Connect** | App developer marketplace | Next.js · Supabase · Swift |
 
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -60,6 +60,10 @@ Soy un emprendedor de 16 años construyendo **Novar**, un ecosistema tecnológic
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+<!-- Android -->
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <!-- Web -->
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -88,13 +92,13 @@ Soy un emprendedor de 16 años construyendo **Novar**, un ecosistema tecnológic
 
 ---
 
-## 🌐 Encuéntrame
+## 🌐 Find Me
 
 <div align="center">
 
-| Plataforma | Link |
+| Platform | Link |
 |:---:|:---:|
-| 🌍 **Sitio Web** | [TU_SITIO_WEB.com](https://TU_SITIO_WEB.com) |
+| 🌍 **Website** | [TU_SITIO_WEB.com](https://TU_SITIO_WEB.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/TU_USUARIO](https://linkedin.com/in/TU_USUARIO) |
 | 📧 **Email** | [TU_CORREO@dominio.com](mailto:TU_CORREO@dominio.com) |
 
@@ -104,11 +108,8 @@ Soy un emprendedor de 16 años construyendo **Novar**, un ecosistema tecnológic
 
 <div align="center">
 
-<!-- SNAKE CONTRIBUTIONS (opcional - requiere GitHub Action) -->
-<!-- <img src="https://github.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake-dark.svg" /> -->
-
-<!-- BANNER INFERIOR -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0030,100:0a0a0a&height=120&section=footer&text=El%20futuro%20ruge.&fontSize=24&fontColor=aaaaff&fontAlignY=65&animation=fadeIn" />
+<!-- BOTTOM BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0030,100:0a0a0a&height=120&section=footer&text=Discipline%20and%20resilience.&fontSize=24&fontColor=aaaaff&fontAlignY=65&animation=fadeIn" />
 
 <sub>Made with focus · Novar © 2025</sub>
 
