@@ -19,7 +19,7 @@ Founder of <b>Novar</b> · Apple Developer · Systems Thinker
 
 ---
 
-## 🧠 Philosophy
+##  Philosophy
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Technology is just the tool.<br/>
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Technology is just the tool.<br/>
 
 ---
 
-## 🚀 Core Projects
+##  Core Projects
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Technology is just the tool.<br/>
 
 ---
 
-## 📊 Performance
+## Performance
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Technology is just the tool.<br/>
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <div align="center">
 
