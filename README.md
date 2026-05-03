@@ -1,118 +1,106 @@
+<div align="center">
+
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:7C3AED&height=180&section=header&text=Andrés%20Camilo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<h2 style="font-weight:500; margin-top:10px;">
+Building systems that scale.
+</h2>
+
+<p style="color:#8b949e; max-width:600px;">
+Founder of <b>Novar</b> · Apple Developer · Systems Thinker
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=18&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=Swift+%2B+SwiftUI+Engineer;Entrepreneur+Mindset;Minimalist+Builder;Discipline+%3D+Freedom" />
+
+</div>
+
+---
+
+## 🧠 Philosophy
+
+<div align="center">
+
+<p style="max-width:700px; color:#8b949e;">
+I don't just build apps.<br/>
+I build <b>systems</b> that solve real problems.<br/><br/>
+
+Technology is just the tool.<br/>
+<b>Execution is everything.</b>
+</p>
+
+</div>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,xcode,kotlin,androidstudio,nextjs,ts,react,tailwind,supabase,arduino,cpp,git,github,figma&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Core Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Novar_Aura-0d0d1a?style=for-the-badge&logo=apple&logoColor=white"/>
+<br/><sub>Robotics Kits</sub>
+</td>
+
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Novar_Education-0d0d1a?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+<br/><sub>School Platform</sub>
+</td>
+
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Novar_Connect-0d0d1a?style=for-the-badge&logo=github&logoColor=white"/>
+<br/><sub>Dev Marketplace</sub>
+</td>
+</tr>
 </table>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-<br/>
-
-**Mobile — Apple**
-
-[![My Skills](https://skillicons.dev/icons?i=swift,xcode&theme=dark)](https://skillicons.dev)
-
-**Mobile — Android**
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark)](https://skillicons.dev)
-
-**Web & Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,react&theme=dark)](https://skillicons.dev)
-
-**Hardware & Other**
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,git,github,figma&theme=dark)](https://skillicons.dev)
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<br/>
+## 📊 Performance
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=e2e8f0&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=e2e8f0&langs_count=7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+---
+
+## 🌐 Connect
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7C3AED&ring=A78BFA&fire=ff4444&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<a href="https://linkedin.com/in/TU_USUARIO">LinkedIn</a> ·
+<a href="mailto:andresaccg@icloud.com">Email</a> ·
+<a href="https://TU_SITIO_WEB.com">Website</a>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
 
 ---
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FIND ME                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🌐 Find Me
-
-<br/>
-
 <div align="center">
 
-| | Platform | Link |
-|:---:|:---:|:---:|
-| 🌍 | **Website** | [TU_SITIO_WEB.com](https://TU_SITIO_WEB.com) |
-| 💼 | **LinkedIn** | [linkedin.com/in/TU_USUARIO](https://linkedin.com/in/TU_USUARIO) |
-| 📧 | **Email** | [andresaccg@icloud.com) |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=9999&color=7C3AED&center=true&vCenter=true&width=500&lines=DISCIPLINE+AND+RESILIENCE." alt="slogan" />
-
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-<sub>Made with focus · <b>Novar</b> © 2025</sub>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0d0d1a&height=120&section=footer"/>
 
 </div>
