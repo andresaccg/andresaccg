@@ -76,8 +76,8 @@ Technology is just the tool.<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=andresaccg&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresaccg&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -91,7 +91,7 @@ Technology is just the tool.<br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/TU_USUARIO">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/andrés-camilo-c-54405a326/">LinkedIn</a> ·
 <a href="mailto:andresaccg@icloud.com">Email</a> ·
 <a href="https://TU_SITIO_WEB.com">Website</a>
 
